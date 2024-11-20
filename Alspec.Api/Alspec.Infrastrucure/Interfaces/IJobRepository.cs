@@ -1,7 +1,6 @@
-﻿
-using Alspec.Models;
+﻿using Alspec.Models;
 
-namespace Alspec.Infrastrucure.Interfaces
+namespace Alspec.Infrastructure.Interfaces
 {
     public interface IJobRepository
     {

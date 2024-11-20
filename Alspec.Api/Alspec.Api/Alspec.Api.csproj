@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Alspec.Infrastrucure\Alspec.Infrastrucure.csproj" />
+    <ProjectReference Include="..\Alspec.Infrastrucure\Alspec.Infrastructure.csproj" />
     <ProjectReference Include="..\Alspec.Models\Alspec.Models.csproj" />
     <ProjectReference Include="..\Alspec.Repository\Alspec.Repository.csproj" />
   </ItemGroup>

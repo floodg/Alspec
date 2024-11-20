@@ -1,5 +1,5 @@
 using System.Text.Json.Serialization;
-using Alspec.Infrastrucure.Interfaces;
+using Alspec.Infrastructure.Interfaces;
 using Alspec.Repository;
 using Microsoft.EntityFrameworkCore;
 

@@ -1,4 +1,4 @@
-using Alspec.Infrastrucure.Interfaces;
+using Alspec.Infrastructure.Interfaces;
 using Alspec.Models;
 using Microsoft.AspNetCore.Mvc;
 

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Alspec.Infrastrucure.Interfaces;
+using Alspec.Infrastructure.Interfaces;
 using Alspec.Models;
 using Microsoft.EntityFrameworkCore;
 

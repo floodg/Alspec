@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alspec.Api", "Alspec.Api\Al
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alspec.Models", "Alspec.Models\Alspec.Models.csproj", "{2BF9036B-D0EB-4A87-80C2-A62F6F56153A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alspec.Infrastrucure", "Alspec.Infrastrucure\Alspec.Infrastrucure.csproj", "{9774F165-6910-402A-8106-B87907B19336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alspec.Infrastructure", "Alspec.Infrastrucure\Alspec.Infrastructure.csproj", "{9774F165-6910-402A-8106-B87907B19336}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alspec.Repository", "Alspec.Repository\Alspec.Repository.csproj", "{AAC95E2A-A54C-4242-B6D7-73B26F16AA99}"
 EndProject
