@@ -1,0 +1,7 @@
+@Alspec.Api_HostAddress = https://localhost:5047
+@Alspec.Api_HostAddress = http://localhost:5045
+
+GET {{Alspec.Api_HostAddress}}/api/jobs/
+Accept: application/json
+
+###
